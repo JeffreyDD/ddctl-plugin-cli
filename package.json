@@ -1,0 +1,9 @@
+{
+  "name": "ddctl-plugin-cli",
+  "version": "1.0.0",
+  "description": "CLI plugin for ddCtl Server",
+  "main": "index.js",
+  "author": "JeffreyDD",
+  "license": "ISC",
+  "pluginName": "cli"
+}
